@@ -1,6 +1,6 @@
 # MyCalculator
 I have developed this project using Java Servlet, HTML, CSS
-
+This is Version 1 of Java Calculator Project
 OUTPUT:
 
 ![Screenshot (473)](https://github.com/user-attachments/assets/4ce87a4a-706c-4c6b-a91d-d4e82f194436)

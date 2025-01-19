@@ -1,8 +1,18 @@
 # MyCalculator
 I have developed this project using Java Servlet, HTML, CSS
 <br>This is Version 1 of Java Calculator Project
-
-<br>OUTPUT:
+<br>
+Introduction: 
+<br>
+I have handled the divide by zero error and Invalid Integer error and displayed the corresponding message in the VERSION 2 Of this calculator project.
+<br>
+<br>
+Technologies Used:
+<br>
+Java Servlet, HTML, CSS
+<br>
+<br>
+INPUT AND OUTPUT IMAGES:
 
 ![Screenshot (473)](https://github.com/user-attachments/assets/4ce87a4a-706c-4c6b-a91d-d4e82f194436)
 When I did 45 + 5, I got 50 as the output

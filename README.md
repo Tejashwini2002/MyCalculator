@@ -4,7 +4,7 @@ I have developed this project using Java Servlet, HTML, CSS
 <br>
 Introduction: 
 <br>
-I have handled the divide by zero error and Invalid Integer error and displayed the corresponding message in the VERSION 2 Of this calculator project.
+I have handled the divide by zero error and Invalid Integer error and displayed the corresponding message in the "VERSION-2" of this calculator project.
 <br>
 <br>
 Technologies Used:
